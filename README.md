@@ -1,24 +1,15 @@
-# A file to show how this python function interprets markdown
-- He**l**lo
-- Bye
+# Alx-frontend-for-fun
 
-Hello
+###  Contents
 
-I'm **a** text
-with __2 lines__
+1. Markdown to HTML to Python
+2. [Flexbox](https://github.com/CEN-Smart/alx-frontend-for-fun/tree/master/flexbox)
+3. [Form](https://github.com/CEN-Smart/alx-frontend-for-fun/tree/master/form)
+4. [sass_scss](https://github.com/CEN-Smart/alx-frontend-for-fun/tree/master/sass
+> Author: Echi Nnanna Chukwuemeka  <br>
+[![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nnanna-echi-445b6249/?originalSubdomain=ng)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/CEN-Smart)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:nnanna.echi018@uniport.edu.ng)<br>
+> Date : August 23,2023
 
-((I will live in Caracas))
-
-But it's [[private]]
-
-So cool!
-
-# My title
-## My title2
-# My title3
-#### My title4
-### My title5
-
-# My title
-- Hello
-- Bye
+***
